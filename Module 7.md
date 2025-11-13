@@ -34,6 +34,7 @@ int main() {
 ~~~
 ## Output:
 <img width="822" height="289" alt="498681806-81469666-443c-488f-b0b3-2a7a705e084b" src="https://github.com/user-attachments/assets/1c17ff30-5b5a-40b6-be70-a1becb7ed225" />
+
 ## Result:
 Thus, the program is verified successfully. 
 
